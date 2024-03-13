@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Choose&amp;Spin</string>
+   
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+     Randomaizer
+    <string name="Randomaizer">Randomaizer</string>
+    <string name="Number">Number</string>
+    <string name="Generate">GENERATE</string>
+    <string name="hintMinRange">Min Range</string>
+    <string name="hintMaxRange">Max Range</string>
+
+    coin
+    <string name="Coin">Coin</string>
+    <string name="Coinflip">Coin flip</string>
+
+    calendar
+    <string name="calendar">Calendar</string>
+
+
+
+
+
+</resources>
